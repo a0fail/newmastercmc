@@ -1,5 +1,6 @@
 # newmastercmc
-Интерфейс обновленного сайта магистратуры (сохранившиеся скрины)
+Интерфейс обновленного сайта магистратуры (сохранившиеся скрины) - сайт - https://masternew.cs.msu.ru
+<br>
 <img width="1280" height="636" alt="photo_2026-06-26 00 06 15" src="https://github.com/user-attachments/assets/7ee52a05-1f0f-441a-9c8f-d91f71bac873" />
 <br>
 <img width="1280" height="562" alt="photo_2026-06-26 00 06 25" src="https://github.com/user-attachments/assets/474ac00f-68a8-478d-8af5-859cf7d8dd5b" />
